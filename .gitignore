@@ -1,0 +1,8 @@
+Results.numbers
+Dataset/ukbench/
+Dataset/ukbench.zip
+Dataset/part_of_ukbench/
+Dataset/custom_dataset/
+Dataset/part_of_ukbench.zip
+Dataset/custom_dataset.zip
+.ipynb_checkpoints/
