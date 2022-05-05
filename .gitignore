@@ -5,4 +5,12 @@ Dataset/part_of_ukbench/
 Dataset/custom_dataset/
 Dataset/part_of_ukbench.zip
 Dataset/custom_dataset.zip
+Dataset/fruits360.zip
+Dataset/fruits360/
+Dataset/SFBench.zip
+Dataset/SFBench/
 .ipynb_checkpoints/
+ukbench.ipynb
+custom_dataset.ipynb
+5_methods_tutorial.ipynb
+custom_dataset-for_visualization.ipynb
